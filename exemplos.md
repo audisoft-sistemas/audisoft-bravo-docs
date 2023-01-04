@@ -1,8 +1,14 @@
 ---
+layout: page
+---
+
+```
+---
 label: Sample
 layout: page
 order: 100
 ---
+```
 
 ```
 metadadados da página:
