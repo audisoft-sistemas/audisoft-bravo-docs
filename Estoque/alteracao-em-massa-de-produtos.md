@@ -1,0 +1,4 @@
+# Alteração em massa de produtos
+Acesse a lista de produtos no estoque, ou pressione F2 em qualquer parte do Staff500, onde é oferecida essa opção. Marque com a barra de espaço do teclado, todos os produtos,  sobre os quais deseja aplicar uma mesma alteração. Depois de marcados, sobre qualquer um desses produtos, pressione ENTER , ou F para abrir a ficha e pressione A para alterar.  Será feita a pergunta ‘’Deseja alterar todos os produtos marcados?’’. Se a resposta for SIM, faça as alterações desejadas e confirme.  Serão aplicadas, igualmente, a todos os produtos selecionados, todas as alterações ocorridas.
+
+Essa opção, também, pode ser utilizada para exclusões. Marque com a barra de espaço, na lista, todos os produtos desejados e pressione Enter em qualquer um deles para abrir a ficha. Pressione E para excluir. Todos os produtos marcados serão excluídos.

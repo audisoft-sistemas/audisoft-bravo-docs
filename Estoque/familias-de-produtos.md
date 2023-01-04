@@ -1,0 +1,12 @@
+# Famílias de produtos
+O sistema de famílias de produtos possui árvore infinita e permite criar quantas escalas de grupos e subgrupos de produtos forem necessárias. Isso permite configurações personalizadas de margens de lucro, custos fixos, comissões de vendedores e desconto máximos permitidos. Não existe um regra única para criação das famílias. Cada empresa deve adotar seus próprios critérios de acordo com as suas necessidades, como similaridade, rentabilidade, rotatividade, localização, coleção, sazonalidade etc.
+
+O primeiro passo para o cadastro dos produtos e a elaboração e o cadastramento de todos os grupos e subgrupos aos quais pertencem. Para cadastrar, vá em Estoque>estoque>grupos. Pressione I para incluir o grupo (utilize nomes que se identifiquem com a linha de produtos). Informe os valores nos campos das perguntas seguintes. Escolhe sempre NÃO se esses valores forem nulos. Responder SIM, significa que esses valores informados (seja zero ou números válidos) substituirão quaisquer outros informados nas configurações gerais.
+
+Para cadastrar o primeiro subgrupo da lista, já posicionado no grupo, pressione F para criar uma família e informe a descrição desejada. Após a inclusão desse subgrupo será exibida ao final da linha uma seta indicando que esse grupo já possui subgrupos. Mova, então, a seta do teclado para a direita, abra a lista e continue cadastrando o restante dos subgrupos seguindo os mesmos passos para cadastro dos grupos citados acima. Se desejar o cadastramento rápido dos subgrupos e, caso tenham a mesma configuração, pressione F, seguidamente sobre o grupo, para a inclusão de cada subgrupo desejado.
+
+Recomendamos muito critério na criação de grupos e subgrupos, pois, com a possibilidade de uso de uma árvore infinita, existe a possibilidade do usuário se perder, apesar das vantagens da flexibilidade. Lembrando que, os produtos serão incluídos somente no último subgrupo da hierarquia.
+
+O cadastro dos grupos e subgrupos pode, também, ser feito na ficha do produto, quando solicitado no ato inclusão. Basta pressionar I para incluir e seguir os mesmos passos recomendados acima.
+
+Caso queira migrar todos os produtos de um subgrupo para outro, pressione S de substituir e escolha com a seta do teclado o destino desses produtos. Confirme com ENTER e conclua a substituição

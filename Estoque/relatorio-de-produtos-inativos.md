@@ -1,0 +1,3 @@
+# Relatório de produtos inativos
+
+Conheça a relação dos produtos que não tiveram vendas realizadas em um determinado período, acessando Estoque>relatórios>acompanhamento>movimentação>sem movimentação. Escolha a opção de filtro desejado ou informe, somente, o número de dias desejado. Se não desejar imprimir os produtos com estoques zero ou negativo, responda NÃO à pergunta e confirme. Serão apresentados a participação no estoque total, o preço de custo, o markup, o preço de venda e os dias prováveis de duração do estoque de cada produto, além do total dos produtos a preço de custo e de venda.

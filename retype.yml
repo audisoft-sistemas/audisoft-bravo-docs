@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: docs.audisoft.com.br
+branding:
+  title: Documentação do Bravo Gestor
+  label: Docs
+links:
+- text: Bem-vindo à Base de Conhecimento do Bravo Gestor
+  link: https://audisoft.com.br
+footer:
+  copyright: "&copy; Copyright {{ year }}. Todos os direitos reservados."
