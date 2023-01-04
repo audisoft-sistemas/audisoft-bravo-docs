@@ -1,5 +1,5 @@
 # Cuidados no cadastro de NCM
-01. O conceito de tributação utilizado pelo Staff500 é que os tributos são aplicados sobre o NCM que representa um conjunto de mercadorias sujeitas à mesma tributação. Depois de cadastrado o NCM, vá até a ficha do produto, e no campo NCM, digite ou abra a lista e selecione.
+01. O conceito de tributação utilizado pelo Bravo Gestor é que os tributos são aplicados sobre o NCM que representa um conjunto de mercadorias sujeitas à mesma tributação. Depois de cadastrado o NCM, vá até a ficha do produto, e no campo NCM, digite ou abra a lista e selecione.
 
 02. Um produto só poderá ser cadastrado se o seu NCM já constar do cadastro com as devidas configurações de saída.
 
@@ -11,7 +11,7 @@
 
 07. Atenção para as configurações do PIS e COFINS se sua empresa for optante pelo Simples Nacional. Consulte seu contador.
 
-08. Se sua empresa for optante pelo Simples Nacional, informe essa opção no cadastro da LOJA no STAFF500 e, no campo de tributação de ICMS, informe, obrigatoriamente, o CSOSN que oferece uma lista de tributações de ICMS com as opções correspondentes ao CST.
+08. Se sua empresa for optante pelo Simples Nacional, informe essa opção no cadastro da LOJA no Bravo Gestor e, no campo de tributação de ICMS, informe, obrigatoriamente, o CSOSN que oferece uma lista de tributações de ICMS com as opções correspondentes ao CST.
 
 09. Cuidado quando informar as tributações de IPI. Na lista de opções, do 01 a 49, estão as entradas. Do 50 a 99, estão as saídas. Informar uma opção de tributação de entrada numa operação de venda, gera problemas na geração do SPED fiscal.
 

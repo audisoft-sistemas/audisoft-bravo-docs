@@ -10,7 +10,7 @@ Os preços de custo devem ser alterados na formação de preços pressionando P 
 
 O NCM/SH só poderá ser substituído por outro já constante da lista cadastrada.
 
-O campo “barras” deve ser preenchido com o código de barras original do fabricante e não pode conter rejeição, sob pena de ser recusado na emissão da NF-e. Se o produto não possui código de barras, delete e pressione ENTER para que o Staff500 gere um código emulado.
+O campo “barras” deve ser preenchido com o código de barras original do fabricante e não pode conter rejeição, sob pena de ser recusado na emissão da NF-e. Se o produto não possui código de barras, delete e pressione ENTER para que o Bravo Gestor gere um código emulado.
 
 O preço de venda pode ser alterado, livremente, ou através da formação de preços.
 

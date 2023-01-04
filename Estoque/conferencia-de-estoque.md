@@ -1,9 +1,9 @@
 # Conferência de estoques
  
 
-As últimas versões do Staff500 não permitem alterações das quantidades em estoque, diretamente, na ficha do produto. Isso só é possível através de uma conferência, devidamente, identificada. 
+As últimas versões do Bravo Gestor não permitem alterações das quantidades em estoque, diretamente, na ficha do produto. Isso só é possível através de uma conferência, devidamente, identificada. 
 
-Para gerar uma conferência e lançar as quantidades dos produtos, acesse o módulo de Estoque no Staff500 e vá em estoque>conferência.  Pressione ENTER para abrir a lista de conferências já utilizadas. Em seguida, Pressione I de inclui, uma nova conferência e com ENTER escolha o depósito desejado. Para quem tem um único depósito, a opção é LOJA. Dê um nome para identificar essa conferência como, madeira, pisos, cereais, ou o nome do grupo ou subgrupo conferido, ou mesmo, qualquer nome que facilite identificá-la no futuro.  E confirme a pergunta. Sobre essa conferência tecle ENTER para abrir a lista, no início, ainda em branco. Se desejar que os produtos tenham as vendas bloqueadas durante o processo de conferência, responda SIM, Caso contrário, responda NÃO. 
+Para gerar uma conferência e lançar as quantidades dos produtos, acesse o módulo de Estoque no Bravo Gestor e vá em estoque>conferência.  Pressione ENTER para abrir a lista de conferências já utilizadas. Em seguida, Pressione I de inclui, uma nova conferência e com ENTER escolha o depósito desejado. Para quem tem um único depósito, a opção é LOJA. Dê um nome para identificar essa conferência como, madeira, pisos, cereais, ou o nome do grupo ou subgrupo conferido, ou mesmo, qualquer nome que facilite identificá-la no futuro.  E confirme a pergunta. Sobre essa conferência tecle ENTER para abrir a lista, no início, ainda em branco. Se desejar que os produtos tenham as vendas bloqueadas durante o processo de conferência, responda SIM, Caso contrário, responda NÃO. 
 
 Diga NÃO à pergunta “Deseja trabalhar no modo coletor de dados” se o lançamento das quantidades contadas for digitado manualmente 
 
