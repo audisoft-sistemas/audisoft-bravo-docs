@@ -26,7 +26,7 @@ exemplo de links [externo](https://example.com) e internos [inventário](Estoque
 link referenciado é mais proeminente:
 [!ref inventário](Estoque/inventario-de-mercadorias.md)
 
-![Your logo](images/logo.png)
+![Your logo](assets/logo.png)
 
 
 Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
