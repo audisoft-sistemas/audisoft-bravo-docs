@@ -1,0 +1,15 @@
+# Reclassificação de mercadorias
+
+Sempre que a empresa precisar dar entrada ou saída de nota fiscal de um produto que possui características muito diferentes das utilizadas no seu cadastro para venda, deverá fazer uso das notas fiscais de reclassificação, também conhecido como formação de kits ou sua desagregação. Essas notas fiscais deverão ser emitidas em nome da própria empresa, utilizando na entrada o CFOP 1926 e na saída o CFOP 5926. Esse recurso é muito utilizado no setor de açougue, quando a empresa compra peças inteiras e vende cortes, ou nas madeireiras que compram madeira em metros cúbicos e vendem na forma de tábuas, caibros ou ripas. É necessário que no cadastro de produtos conste, tanto os produtos na forma como serão vendidos, como na forma como foram adquiridos.
+
+Antes de emitir a primeira nota fiscal verifique o cadastro dos CFOP. Ou efetue o seu cadastro obedecendo os seguintes recomendações. Somente os parâmetros de ESTOQUE e CONTÁBIL deverão estar marcados com X, pois essas operações não podem gerar qualquer ônus fiscal ou financeiro.
+
+Na entrada de peças inteiras de carne bovina, entre, normalmente, com a nota fiscal emitida pelo seu fornecedor, com os produtos na forma como foram descritos.
+
+Em seguida, emita uma nota fiscal de SAÍDA dessas mesmas peças, na mesma forma em que foram compradas, para sua própria empresa utilizando o CFOP 5926. E finalmente, para que a entrada no estoque seja efetivada, emita uma nota fiscal de ENTRADA, com os produtos na forma em que foram cadastrados para venda, também para sua própria empresa, utilizando o CFOP 1926, de todos os cortes apurados no desmanche das peças adquiridas na nota fiscal de compra.
+
+Esse recurso pode, também, ser utilizado quando se deseja dar saída nos seus produtos de venda, porém com características diferentes das constantes do cadastro para compra, como padarias e confeitarias ou restaurantes, que compram mercadorias na forma de ingredientes e vendem na forma de pães, confeitos e pratos. Nesse caso, o processo é o inverso. Emite-se uma nota fiscal de saída dos ingredientes e outra de entrada dos produtos acabados para abastecer os estoques de venda, utilizando os CFOPs  recomendados para cada operação.
+
+Essa solução, também, é recomendada para devolução de mercadorias ao fornecedor, quando a embalagem original do produto na nota fiscal foi modificada, no ato da entrada, através do fator de conversão ou de uma nota de reclassificação, e o fornecedor exige que os produtos sejam devolvidos com as mesmas características descritas na nota fiscal  de compra.
+
+Essa orientação não se aplica às empresas classificadas como indústria e que estão sujeitas à obrigatoriedade da escrituração do livro  de Registro do Controle e Movimentação do Estoque para cobertura do processo de transformação.

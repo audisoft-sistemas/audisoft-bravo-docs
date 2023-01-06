@@ -6,6 +6,6 @@ branding:
   label: Docs
 links:
 - text: Bem-vindo à Base de Conhecimento do Bravo Gestor
-  link: https://audisoft.com.br
+  link: https://docs.audisoft.com.br
 footer:
   copyright: "&copy; Copyright {{ year }}. Todos os direitos reservados."
