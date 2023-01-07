@@ -1,0 +1,6 @@
+
+# Emitir uma NF-e de devolução de venda
+
+Para emitir uma nota fiscal de devolução de venda de mercadorias, o operador deverá lançar os produtos diretamente na nota fiscal. O Bravo Gestor não oferece a opção de lançamento através de um pedido de origem como nas vendas, devido às particularidades das tributações de cada devolução. Acesse o Faturamento>notas fiscais>saídas>modelo 55>ENTER e pressione I para incluir. Informe, corretamente, o CFOP recomendado pelo seu contador e preencha todos os dados do cliente. Não informe os valores totais, eles serão gerados pelo Bravo Gestor após o lançamento dos itens. Nos campos dos produtos, digite e código ou pressione ENTER e busque na lista. Utilize o CFOP apropriado para cada produto de acordo com sua tributação de ICMS. Finalizada a inclusão dos itens, pressione ESC  e vá até os dados do cliente. Se houver necessidade de fazer alguma observação referente aos dados do cupom fiscal, pressione O, inclua a informação e salve com Crtl+W. Pressione N para imprimir a nota fiscal.
+
+Toda devolução de venda deve começar pela devolução no pedido de venda. Clique [AQUI](../Pre-venda/devolucao-de-venda.md) para saber como.

@@ -1,0 +1,3 @@
+# Cancelamento de uma pré venda
+
+Sobre a venda, pressione C para  cancelar. Digite as iniciais do histórico CAN de cancelamento. Escreva a justificativa e, para salvar, pressione ESC ou Crtl=W e confirme. Todas as operações referentes a essa venda serão, totalmente, deletadas. Essa operação só será possível se estiver dentro do prazo definido pelos parâmetros. Se tiver sido emitido o cupom fiscal, o cancelamento só poderá ser feito no próprio caixa e se for o último cupom emitido. Se estiver com a condição FAT de faturada, o cancelamento só será permitido depois de cancelada a nota fiscal correspondente. Do contrário, essa venda deverá ser [devolvida](devolucao-de-venda.md).
