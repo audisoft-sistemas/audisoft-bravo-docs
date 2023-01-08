@@ -31,6 +31,10 @@ link referenciado é mais proeminente:
 
 Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
 
+linha separadora:
+
+`---`
+
 ---
 
 ## Lists

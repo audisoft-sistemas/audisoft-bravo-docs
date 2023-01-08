@@ -1,0 +1,5 @@
+# Nota fiscal não encontrada
+
+O validador  Sintegra possui uma estrutura antiga e não suporta a tamanho dos números das notas fiscais eletrônicas maiores de seis dígitos.  Quando isso acontece, são gravados, somente, os seis últimos dígitos, o que impossibilita a identificação correta dessa nota fiscal quando buscada no faturamento para correção de algum erro. Nesse caso, é necessário descobrir, qual é o produto e em seguida, qual a nota fiscal. Para isso, no validador do Sintegra, anote o número da linha do erro e clique em ” Validar” e em seguida em “Visualizar”. Escolha a opção “Ir para linha”. Digite a linha do erro e mova a seta para a direita até ser identificado, no rodapé da página, o código do produto.
+
+Agora, acesse o Staff500, busque e abra a ficha desse produto no estoque. Pressione F de fornecedores e com ENTER abra as notas fiscais do fornecedor com vendas no período desejado. Agora, com o número da nota fiscal completo, vá ao faturamento, busque essa nota fiscal e faça as correções desejadas.

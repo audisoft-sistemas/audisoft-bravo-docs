@@ -1,0 +1,15 @@
+# Cadastro de clientes
+
+O cadastro de clientes deve ser feito por pessoa qualificada e autorizada, pois não se trata de apenas um simples cadastro, mas a permissão para que esse cliente passe a fazer uso do crédito nas compras a prazo.
+
+Para efetuar o cadastro, vá em Staff500-contas a receber-clientes. Na lista, tecle ENTER para que seja exibida uma ficha e pressione I para incluir. Será feita uma pergunta “Cliente pessoa física?” Se a resposta for SIM, serão solicitados os dados pessoais do cliente. Se NÃO, serão pedidos os dados comerciais do cliente, nesse caso, uma empresa. O campo “categoria”, também conhecido como tipologia, serve para agrupar os diferentes perfis de clientes, como: comerciante, fazendeiro, aposentado, marceneiro etc. Essas categorias devem ser previamente, cadastradas em contas a Receber > Utilitários > Categoria. Tecle I de incluir e informe um código numérico e dê um nome que identifique bem esse perfil de cliente. Esses agrupamentos são muito importantes na emissão de relatórios. O campo região deve ser sempre preenchido com LOJA, a menos que sua empresa opere com política de preços diferenciados para cada região em que atuam seus vendedores. Escreva corretamente o nome da cidade, ou tecle ENTER e escolha na lista fornecida pelo Staff500. No endereço, não se esqueça de usar a vírgula separando o número do logradouro e mesmo nos casos em que for sem número, use S/N após a vírgula.
+
+Caso esse cliente seja vinculado a um vendedor, digite o seu código e escolha na lista.
+
+Na versão mais nova do Staff500, os campos: endereço, número e complemento, possuem boxes separados. O campo e-mail é imprescindível se sua empresa emite NF-e pelo Staff500, pois permite que sejam enviados, automaticamente, a este cliente o XML e o espelho do DANFE correspondentes a cada nota fiscal.
+
+Observe que, o endereço de cobrança é preenchido, automaticamente, com os dados do cadastro, porém deve ser modificado se for diferente. É para esse endereço, que será enviada toda correspondência.
+
+Ao final do cadastro será exibida uma página de informações financeiras, que também pode ser acessada a qualquer momento com a letra I, onde estão armazenadas todas a informações deste cliente, disponibilizando o preenchimento de algumas condições que podem auxiliar no preenchimento da venda. Esses parâmetros podem ser definidos como obrigatórios, marcando X no campo “fixo”. Para que seja possível a aplicação das condições de pagamento, é necessário que antes seja criada uma tabela de prazos cadastrando em contas a Receber > Utilitários > Condições de pagamento. Pressione I para incluir e crie um código numérico para cada prazo. Para a condição a vista, deixe o prazo em branco. Ex. 001=____, 002=30, 003=30/45/60. Exemplificando, se pretende vender apenas a vista para um cliente, selecione essa opção 001 e marque X em fixo.
+
+Finalizando, se não há nenhuma condição especial a ser definida, pressione ESC e finalize o cadastro do cliente. Essa operação, também pode executada, tanto na pré venda, quanto no caixa, teclando F4 e executando os procedimentos acima descritos.
