@@ -1,6 +1,6 @@
 # Troca de mercadorias
 
-O conceito ‘’Troca de mercadorias’’ com desconto no cupom ou nota fiscal do novo produto entregue ao cliente, NÃO EXISTE.
+O conceito `Troca de mercadorias` com desconto no cupom ou nota fiscal do novo produto entregue ao cliente, NÃO EXISTE.
 
  Deve ser feita a devolução correta da primeira venda – veja [AQUI](../Pre-venda/devolucao-de-venda.md) – e efetuada a venda do novo produto com emissão do documento fiscal no valor integral.
 
